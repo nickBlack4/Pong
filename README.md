@@ -6,4 +6,4 @@ If you clone the repo and run the code locally it works but you cannot see the D
 
 Sorry about that!
 
-![nick black code](https://github.com/nickBlack4/nick-black-code-portfolio/blob/master/portfolio.png "Portfolio website")
+![nick black code](https://github.com/nickBlack4/pong/blob/master/Pong.png "Pong")
